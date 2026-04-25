@@ -16,7 +16,7 @@ Built as a Data Structures project for First Year Computer Engineering (Semester
 - Preloaded with sample reservations for quick testing
 
 ## Files
-`flight_reservation.c` - Main source file containing all logic 
+`Flight_Res.C` - Main source file containing all logic 
 
 ## Menu Options
 ```
